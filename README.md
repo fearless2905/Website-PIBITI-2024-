@@ -64,3 +64,36 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+# Hikers Website
+
+[![Website Status](https://img.shields.io/website-up-down-green-red/http/hikers.alifbayuku.com.svg)](http://hikers.alifbayuku.com)
+
+Hikers adalah website yang dirancang untuk para pecinta alam dan petualang. Website ini memberikan informasi, tips, dan komunitas bagi mereka yang menyukai aktivitas mendaki gunung.
+
+## Tautan Website
+
+Anda dapat mengakses website melalui link berikut:  
+**[hikers.alifbayuku.com](http://hikers.alifbayuku.com)**
+
+## Kredensial Masuk
+
+Untuk mengakses area yang dilindungi oleh login, Anda dapat menggunakan kredensial berikut:
+
+- **Username**: alif@user.com
+- **Password**: 1234567890
+
+## Fitur
+
+- Informasi lengkap tentang pendakian gunung.
+- Tips dan panduan untuk pendaki pemula.
+- Komunitas para pendaki gunung untuk berbagi pengalaman.
+- Desain responsif yang dapat diakses dari berbagai perangkat.
+
+## Teknologi yang Digunakan
+
+- **Front-end**: HTML, CSS, JavaScript
+- **Back-end**: Laravel (PHP Framework)
+- **Database**: MySQL
+- **Deployment**: DigitalOcean
